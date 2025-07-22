@@ -91,8 +91,3 @@ Olá, mundo! Isso é um teste com acentuação: á, é, í, ó, ú, ç.
 - Para melhores resultados, utilize imagens nítidas e com boa iluminação.
 - Pode-se aplicar pré-processamento na imagem (como escala de cinza, binarização, etc) para melhorar a leitura, se necessário.
 
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
